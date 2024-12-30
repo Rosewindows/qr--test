@@ -11,4 +11,5 @@
 <img src="./images/image-qr-code.png" Alt ="Image-qr-code" style="width:200px">
 </body>
 
+
 </html>
