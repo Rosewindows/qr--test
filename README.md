@@ -7,13 +7,13 @@
 
 <body style="background-color:hsl(0, 0%, 100%)">
 
+
 <svg><rect 
 width="100px"
 height="100px" 
 rx="10"
 ry="10"
-style="fill:hsl(216, 15%, 48%)"
-align="center" />
+style="fill:hsl(216, 15%, 48%)" />
 </svg>
 
 
