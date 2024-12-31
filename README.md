@@ -14,7 +14,7 @@
 <body style="background-color:hsl(0, 0%, 100%)" width="1440">
 
 
-<div1 style="
+<div style="
   background-color:hsl(212, 45%, 89%);
   color:black;
   position: fixed;
